@@ -2,13 +2,14 @@
 
 
 Module Splitup
-  1.Scanned answer sheet into PDF file Updation
-
-  2.Evaluation
-
-  3.Result publish
-
-  4.Analysis(student portal view)
+  
+  1.Answer sheet digitization.
+  2.user module.
+  3.Database module.
+  4.Faculty module.
+  5.Student module.
+  6.Faculty Evaluation.
+  7.Result analysis and result generation module.
 
 
 Abstract:
